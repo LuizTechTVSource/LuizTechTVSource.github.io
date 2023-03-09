@@ -9,7 +9,7 @@
   height: 100vh;
   height: -webkit-fill-available;
   background-image: linear-gradient(rgba(0, 0, 0, 0.75), rgba(0, 0, 0, 0.75)),
-    url(imagens/Background.png);
+    url(images/Background.png);
   background-size: cover;
   background-position: center;
 }
